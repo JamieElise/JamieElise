@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Bash, Powershell, and Python.
 - 💞️ I’m looking to collaborate on penetration (cyber and physical) testing teams, both in academic competition and in real life.
-- 📫 How to reach me jamieelise76@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
