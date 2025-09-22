@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jamie
 - 👀 I’m interested in Network Engineering & Cybersecurity
-- 🌱 I’m currently learning Bash, Powershell, and Python.
-- 💞️ I’m looking to collaborate on penetration (cyber and physical) testing teams, both in academic competition and in real life.
+- 🌱 I’m currently learning GO, Bash, Powershell, and Python.
 - 😄 Pronouns: she/her
 
 
